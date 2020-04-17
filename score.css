@@ -1,0 +1,11 @@
+.game {
+  padding-left: 30%;
+  padding-top: 5%;
+}
+div .game {
+  background-color: rgb(128, 128, 128);
+}
+
+.winner {
+  color: green;
+}
